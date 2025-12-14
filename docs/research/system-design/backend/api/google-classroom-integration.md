@@ -37,3 +37,4 @@
 ### Links
 - npm library for connecting to google via ReactJS: https://www.npmjs.com/package/@react-oauth/google
 - useful youtube video link for tutorial: https://www.youtube.com/watch?v=GuHN_ZqHExs
+- useful Google Signin flowchart: https://drive.google.com/file/d/1eEJ59pWKD8Ijqq76w0KR7o2xHz79_yrI/view?usp=sharing
