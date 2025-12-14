@@ -33,3 +33,7 @@
 - **Secret Token**: A token that created by Google within the first time setting up Google API. It used by the backend server of our application to makes Google believe our server is the legitimate server
 - **Client ID**: Used for verifying our application. and used by Google to make sure that our application frontend and backend are the same application.
 - **Access Token**: Access token that coming from Google after server verifies the ID Token is used for getting every data that user gives consent for the app to use earlier when choosing Google Account.
+
+### Links
+- npm library for connecting to google via ReactJS: https://www.npmjs.com/package/@react-oauth/google
+- useful youtube video link for tutorial: https://www.youtube.com/watch?v=GuHN_ZqHExs
